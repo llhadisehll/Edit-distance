@@ -182,7 +182,7 @@ project_root/
 - **Efficiency:** Due to the number and volume of books, processing may take time. Therefore, it is recommended to do a short test first for large books.
 
 - **Similarity sensitivity:** The Wu-Palmer method calculates semantic similarities between words, but the results may not always be accurate. Therefore, the interpretation of the results should be done carefully.
-- **Due to the limitation of uploading in Github, I did not upload the plots and output of the book folders. You can use other books and generate output and plots by running the codes.
+- Due to the limitation of uploading in Github, I did not upload the plots and output of the book folders. You can use other books and generate output and plots by running the codes.
 ## Appreciation
 
 - The [NLTK] (https://www.nltk.org/) library has been used to process natural language and calculate word similarities.
